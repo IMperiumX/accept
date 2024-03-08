@@ -64,3 +64,10 @@ INSTALLED_APPS += ["django_extensions"]
 CELERY_TASK_EAGER_PROPAGATES = True
 # Your stuff...
 # ------------------------------------------------------------------------------
+INSTALLED_APPS += ["silk"]
+MIDDLEWARE += ["silk.middleware.SilkyMiddleware"]
+# Silk Profiling
+SILKY_PYTHON_PROFILER = True
+
+# https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling
+SILKY_ANALYZE_QUERIES = True
