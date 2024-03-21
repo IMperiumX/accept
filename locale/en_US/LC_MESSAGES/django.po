@@ -1,6 +1,6 @@
-# Translations for the Accept project
+# Translations for the accept project
 # Copyright (C) 2024 Yousef Adel
-# Yousef Adel <yousefadel@paymob.com>, 2024.
+# Yousef Adel <yusufadell.dev@gmail.com>, 2024.
 #
 #, fuzzy
 msgid ""

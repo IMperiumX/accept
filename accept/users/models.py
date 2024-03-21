@@ -1,3 +1,4 @@
+
 from typing import ClassVar
 
 from django.contrib.auth.models import AbstractUser
@@ -11,7 +12,7 @@ from .managers import UserManager
 
 class User(AbstractUser):
     """
-    Default custom user model for Accept.
+    Default custom user model for accept.
     If adding fields that need to be filled at user signup,
     check forms.SignupForm and forms.SocialSignupForms accordingly.
     """

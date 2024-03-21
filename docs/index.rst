@@ -1,9 +1,9 @@
-.. Accept documentation master file, created by
+.. accept documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Accept's documentation!
+Welcome to accept's documentation!
 ======================================================================
 
 .. toctree::
